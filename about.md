@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-----
+---
 
 I am a researcher interested in new media and technology studies, political economy, and public policy.
 
