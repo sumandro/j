@@ -1,0 +1,11 @@
+# Website config
+title: Sumandro Chattapadhyay
+author: sumandro
+email: sumandro@protonmail.com
+description: Works by Sumandro
+twitter_username: sumandr0
+github_username: ajantriks
+
+# Build config
+markdown: kramdown
+theme: minima
